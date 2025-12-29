@@ -95,7 +95,7 @@ The pipeline executes the following sequence:
 ## Project Architecture
 
 ```
-run_pipeline.py          <-- Main entry point (orchestrates entire flow)
+main.py          <-- Main entry point (orchestrates entire flow)
 config.py                <-- Global configuration constants
 requirements.txt         <-- Python dependencies
 
@@ -256,7 +256,7 @@ For each ranked company (top 50), the dashboard displays:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/shaikashfaaqhamja/DIGITALLY_TRANSFORMING_COMPANIES.git
 cd DIGITALLY_TRANSFORMING_COMPANIES
 
 # Create virtual environment (recommended)
@@ -288,7 +288,7 @@ pip install -r requirements.txt
 ### Running the Full Pipeline
 
 ```bash
-python run_pipeline.py
+python main.py
 ```
 
 The pipeline will:
@@ -317,7 +317,7 @@ The pipeline will:
 The pipeline automatically resumes from the last checkpoint. Simply run:
 
 ```bash
-python run_pipeline.py
+python main.py
 ```
 
 Previously processed companies will be skipped.
@@ -328,7 +328,7 @@ To start fresh, delete the output directory:
 
 ```bash
 rm -rf output/
-python run_pipeline.py
+python main.py
 ```
 
 ---
@@ -344,7 +344,7 @@ python run_pipeline.py
 | `MIDDLE_EAST_LOCATIONS` | [list]  | Countries for geographic filtering       |
 | `DIGITAL_ROLE_KEYWORDS` | {dict}  | Keyword mappings for role classification |
 
-### run_pipeline.py
+### main.py
 
 | Constant     | Default | Description                                    |
 | ------------ | ------- | ---------------------------------------------- |
