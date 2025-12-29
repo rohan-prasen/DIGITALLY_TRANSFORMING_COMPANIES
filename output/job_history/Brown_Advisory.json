@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Portfolio Analyst",
+    "date": "2025-12-09",
+    "location": "New York, NY",
+    "company_hint": "Brown Advisory"
+  },
+  {
+    "title": "Research Analyst, Investment Solutions Group",
+    "date": "2025-09-19",
+    "location": "New York, NY",
+    "company_hint": "Brown Advisory"
+  },
+  {
+    "title": "Investment Research Analyst",
+    "date": "2025-10-28",
+    "location": "Washington, DC",
+    "company_hint": "Brown Advisory"
+  },
+  {
+    "title": "********* *******, ********** ********* *****",
+    "date": "2025-09-09",
+    "location": "*** ****, **",
+    "company_hint": "***** ********"
+  },
+  {
+    "title": "********* ********* *******, ********** ********* *****",
+    "date": "2025-09-19",
+    "location": "*** ****, **",
+    "company_hint": "***** ********"
+  },
+  {
+    "title": "******** ************ *******",
+    "date": "2025-11-03",
+    "location": "*********, **",
+    "company_hint": "***** ********"
+  },
+  {
+    "title": "******** ** ********* ********",
+    "date": "2025-12-23",
+    "location": "**********, **",
+    "company_hint": "***** ********"
+  }
+]

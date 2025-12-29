@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Project Manager",
+    "date": "2025-12-24",
+    "location": "Fountain Valley, CA",
+    "company_hint": "Infogain"
+  },
+  {
+    "title": ".NET Core Developer (Standard)",
+    "date": "2025-12-27",
+    "location": "Plano, TX",
+    "company_hint": "Infogain"
+  },
+  {
+    "title": "Back End Developer",
+    "date": "2025-12-04",
+    "location": "San Diego, CA",
+    "company_hint": "Infogain"
+  },
+  {
+    "title": "****** ******* ********* ********** ********",
+    "date": "2025-12-17",
+    "location": "**** ****, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "****** ******* *******",
+    "date": "2025-12-15",
+    "location": "******** ******, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "******** ****** **** ********",
+    "date": "2025-12-17",
+    "location": "**** ****, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "******** ******* \u2013 ******* ********** ********",
+    "date": "2025-12-15",
+    "location": "******, **",
+    "company_hint": "********"
+  }
+]

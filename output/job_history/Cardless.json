@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Data Analyst",
+    "date": "2025-12-05",
+    "location": "San Francisco, CA",
+    "company_hint": "Cardless"
+  },
+  {
+    "title": "General Counsel",
+    "date": "2025-12-18",
+    "location": "San Francisco, CA",
+    "company_hint": "Cardless"
+  },
+  {
+    "title": "Software Engineer - Backend",
+    "date": "2025-12-23",
+    "location": "San Francisco, CA",
+    "company_hint": "Cardless"
+  },
+  {
+    "title": "******* *******",
+    "date": "2025-10-22",
+    "location": "*** *********, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "***** ******** *** **********",
+    "date": "2025-10-22",
+    "location": "*** *********, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "****** **** ****",
+    "date": "2025-10-22",
+    "location": "*** *********, **",
+    "company_hint": "********"
+  },
+  {
+    "title": "************, ******* *********",
+    "date": "2025-10-27",
+    "location": "*** *********, **",
+    "company_hint": "********"
+  }
+]

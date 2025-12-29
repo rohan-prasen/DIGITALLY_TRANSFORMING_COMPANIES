@@ -1,0 +1,150 @@
+{
+  "City of West Jordan": {
+    "name": "City of West Jordan",
+    "country": "Middle East",
+    "sector": "General",
+    "score": 212.77,
+    "confidence": 0.7,
+    "stage": "Early Digital Shift",
+    "signals": {
+      "momentum": -0.778,
+      "role_diversity": 2,
+      "seniority": 14,
+      "tech_signals": [
+        "AI/ML"
+      ],
+      "roles": [
+        "AI/ML",
+        "Other"
+      ],
+      "timeline": [
+        {
+          "month": "2025-06",
+          "count": 3
+        },
+        {
+          "month": "2025-12",
+          "count": 4
+        }
+      ],
+      "role_evolution": {
+        "Senior": 7
+      }
+    },
+    "role_counts": {
+      "Other": 6,
+      "AI/ML": 1
+    },
+    "explainability": {
+      "Hiring Momentum": "Flat",
+      "Role Diversity": 2,
+      "Leadership Hiring": "Yes",
+      "Tech Signals": [
+        "AI/ML"
+      ],
+      "Evidence Strength": "Medium"
+    },
+    "evidence_summary": "The company shows limited but recent digital hiring activity (2 months observed). Key roles include AI/ML, Other, indicating focus on digital and technology capabilities. The presence of senior or leadership-level technology roles suggests organizational-level digital ownership rather than isolated experimentation. Job descriptions reference modern technologies and platforms such as AI/ML, which are commonly associated with digital transformation initiatives. Hiring momentum appears stable, which may indicate consolidation after recent transformation. Based on combined hiring patterns, role composition, and technology signals, the company is classified as **Early Digital Shift** within the **General** sector."
+  },
+  "First Abu Dhabi Bank (FAB)": {
+    "name": "First Abu Dhabi Bank (FAB)",
+    "country": "Middle East",
+    "sector": "General",
+    "score": 510.0,
+    "confidence": 0.5,
+    "stage": "Early Digital Shift",
+    "signals": {
+      "momentum": 7.0,
+      "role_diversity": 1,
+      "seniority": 17,
+      "tech_signals": [],
+      "roles": [
+        "Other"
+      ],
+      "timeline": [
+        {
+          "month": "2025-12",
+          "count": 7
+        }
+      ],
+      "role_evolution": {
+        "Leadership": 2,
+        "Senior": 5
+      }
+    },
+    "role_counts": {
+      "Other": 7
+    },
+    "explainability": {
+      "Hiring Momentum": "Positive",
+      "Role Diversity": 1,
+      "Leadership Hiring": "Yes",
+      "Tech Signals": [],
+      "Evidence Strength": "Medium"
+    },
+    "evidence_summary": "The company shows limited but recent digital hiring activity (1 months observed). Key roles include Other, indicating focus on digital and technology capabilities. The presence of senior or leadership-level technology roles suggests organizational-level digital ownership rather than isolated experimentation. Hiring momentum shows an upward or sustained trend, suggesting that digital initiatives are ongoing rather than concluded. Based on combined hiring patterns, role composition, and technology signals, the company is classified as **Early Digital Shift** within the **General** sector."
+  },
+  "All for One Egypt": {
+    "name": "All for One Egypt",
+    "country": "Middle East",
+    "sector": "General",
+    "score": 234.16,
+    "confidence": 0.7,
+    "stage": "Early Digital Shift",
+    "signals": {
+      "momentum": -0.167,
+      "role_diversity": 2,
+      "seniority": 14,
+      "tech_signals": [
+        "DevOps"
+      ],
+      "roles": [
+        "DevOps",
+        "Other"
+      ],
+      "timeline": [
+        {
+          "month": "2025-05",
+          "count": 2
+        },
+        {
+          "month": "2025-07",
+          "count": 1
+        },
+        {
+          "month": "2025-09",
+          "count": 1
+        },
+        {
+          "month": "2025-10",
+          "count": 1
+        },
+        {
+          "month": "2025-11",
+          "count": 1
+        },
+        {
+          "month": "2025-12",
+          "count": 1
+        }
+      ],
+      "role_evolution": {
+        "Senior": 7
+      }
+    },
+    "role_counts": {
+      "Other": 6,
+      "DevOps": 1
+    },
+    "explainability": {
+      "Hiring Momentum": "Flat",
+      "Role Diversity": 2,
+      "Leadership Hiring": "Yes",
+      "Tech Signals": [
+        "DevOps"
+      ],
+      "Evidence Strength": "Medium"
+    },
+    "evidence_summary": "The company shows sustained digital hiring activity over the last 6 months with 7 relevant roles posted in the recent period. Key roles include DevOps, Other, indicating focus on digital and technology capabilities. The presence of senior or leadership-level technology roles suggests organizational-level digital ownership rather than isolated experimentation. Job descriptions reference modern technologies and platforms such as DevOps, which are commonly associated with digital transformation initiatives. Hiring momentum appears stable, which may indicate consolidation after recent transformation. Based on combined hiring patterns, role composition, and technology signals, the company is classified as **Early Digital Shift** within the **General** sector."
+  }
+}
